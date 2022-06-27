@@ -1,0 +1,27 @@
+Route:
+1.Paris-Skopje,  
+2.Zurich-Amsterdam,
+3.Berlin-Kiev, 
+4.Berlin-Amsterdam.
+5.Prague-Zurich, Amsterdam-Barcelona,
+6.Barcelona-Berlin, 
+7.Kiev-Prague, 
+8.Skopje-Paris,
+
+PLaces Required to Visit:
+ 1.Amsterdam
+ 2.Kiev
+ 3.Zurich
+ 4.Prague
+ 5.Berlin
+ 6.Barcelona.
+
+So Travelling  DSA:
+Since the child is starting position from Keiv
+We have direct train for all the places :
+1.Kiev-Prague
+2.Prague-Zurich
+3.Zurich-Amsterdam
+4.Amsterdam-Barcelona
+5.Barcelona-Berlin
+So time Complexity would be O(n)
